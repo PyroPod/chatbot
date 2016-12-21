@@ -1,0 +1,8 @@
+{
+  "name": "ChatBot",
+  "description": "A discord bot for chatting utilities",
+  "repository": "https://github.com/heroku/node-js-getting-started",
+  "logo": "https://cdn.discordapp.com/attachments/260956478796464128/260977347308683267/Chatbotlight.png",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
